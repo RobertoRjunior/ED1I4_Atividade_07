@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Atividade_02.10.23
+namespace Atividade_02-10-23
 {
     class Lote
     {
